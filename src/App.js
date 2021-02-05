@@ -5,7 +5,6 @@ import logo from './logo.svg';
 import './semantic/dist/semantic.min.css';
 import './App.css';
 
-
 class App extends Component {
   render() {
     return (
